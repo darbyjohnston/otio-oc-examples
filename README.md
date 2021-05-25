@@ -14,30 +14,29 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 Sol Levante (2020)
 ------------------
 An animated short film from Netflix.
+
 ![sollevante_lp_vdm_16b_p3d65_pq_20200218_3840x2160](sollevante_lp_vdm_16b_p3d65_pq_20200218_3840x2160.PNG)
 ![SolLevante_Animatics_ver1_H264](SolLevante_Animatics_ver1_H264.PNG)
 
 ### SolLevante_Animatics_ver1_H264.otio
 
-1920x1080 H264 movie
+This .otio file consists of 63 clips using a 1920x1080 H264 movie for source footage.
 
 Downloading the content (320MB):
 ```
 aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/working_assets/SolLevante_Animatics_ver1_H264.mov .
 ```
 
-### 3840x2160 ProRes movie
+### SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio
 
-```
-SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio
-```
+This .otio file consists of 63 clips using a 3840x2160 ProRes movie movie for source footage.
 
 Downloading the content (34.8 GB):
 ```
 aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/hdr10/SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov .
 ```
 
-Original editorial file ```sollevante_lp_16b_hdr_p3d65pq_dolbyvision29.xml```
+The original editorial file ```sollevante_lp_16b_hdr_p3d65pq_dolbyvision29.xml``` was
 converted to .otio with ```SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.py```.
 
 
