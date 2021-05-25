@@ -4,7 +4,7 @@ This repository contains example files for use with OpenTimelineIO applications.
 https://github.com/PixarAnimationStudios/OpenTimelineIO
 
 The examples are based on open source content from Netflix:  
-https://opencontent.netflix.com/
+https://opencontent.netflix.com/  
 https://creativecommons.org/licenses/by/4.0/legalcode
 
 Documentation on using the AWS Command Line Interface for downloading the content:  
