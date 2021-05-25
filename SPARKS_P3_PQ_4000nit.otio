@@ -1,0 +1,1353 @@
+{
+    "OTIO_SCHEMA": "Timeline.1",
+    "metadata": {},
+    "name": "Sol Levante",
+    "global_start_time": null,
+    "tracks": {
+        "OTIO_SCHEMA": "Stack.1",
+        "metadata": {},
+        "name": "tracks",
+        "source_range": null,
+        "effects": [],
+        "markers": [],
+        "children": [
+            {
+                "OTIO_SCHEMA": "Track.1",
+                "metadata": {},
+                "name": "V1",
+                "source_range": null,
+                "effects": [],
+                "markers": [],
+                "children": [
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 512.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 0.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 405.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 512.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 567.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 917.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 540.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 1484.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 432.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 2024.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 174.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 2456.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 430.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 2630.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 284.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 3060.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 286.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 3344.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 114.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 3630.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 507.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 3744.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 586.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 4251.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 124.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 4837.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 803.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 4961.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 261.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 5764.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 478.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 6025.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 206.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 6503.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 150.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 6709.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 994.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 6859.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 196.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 7853.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 346.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 8049.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 547.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 8395.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 832.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 8942.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 298.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 9774.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 554.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 10072.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 197.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 10626.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 1044.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 10823.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 60.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 11867.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 11927.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 12106.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 12285.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 12464.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 12643.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 12822.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 13001.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 13180.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 13359.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 179.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 13538.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "metadata": {},
+                        "name": "",
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 60.0
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94005994005994,
+                                "value": 13717.0
+                            }
+                        },
+                        "effects": [],
+                        "markers": [],
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ImageSequenceReference.1",
+                            "metadata": {},
+                            "name": "",
+                            "available_range": null,
+                            "target_url_base": "",
+                            "name_prefix": "SPARKS_P3_PQ_4000nit_",
+                            "name_suffix": ".exr",
+                            "start_frame": 0,
+                            "frame_step": 1,
+                            "rate": 59.94005994005994,
+                            "frame_zero_padding": 5,
+                            "missing_frame_policy": "error"
+                        }
+                    }
+                ],
+                "kind": "Video"
+            }
+        ]
+    }
+}
