@@ -9,7 +9,7 @@ https://opencontent.netflix.com/
 The Netflix open source content license:  
 https://creativecommons.org/licenses/by/4.0/legalcode
 
-Documentation on using the AWS Command Line Interface for how to download the content:  
+Documentation on using the AWS Command Line Interface to download the content:  
 https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 
 
