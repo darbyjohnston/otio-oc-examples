@@ -92,7 +92,7 @@ A high dynamic range test film from Netflix.
 
 ![Meridian_UHD4k5994_HDR_P3PQ](Meridian_UHD4k5994_HDR_P3PQ.PNG)
 
-### Meridian_UHD4k5994_HDR_P3PQ.otio
+### [Meridian_UHD4k5994_HDR_P3PQ.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/Meridian_UHD4k5994_HDR_P3PQ.otio)
 
 This .otio file contains 82 clips using a 3840x2160 H264 movie for source footage.
 
