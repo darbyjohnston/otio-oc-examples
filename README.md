@@ -49,7 +49,7 @@ converted to .otio with ```sollevante_lp_vdm_16b_p3d65_pq_20200218_3840x2160.py`
 
 This .otio file consists of 63 clips using a 1920x1080 H264 movie for source footage.
 
-Downloading the content (320MB):
+Downloading the content (320 MB):
 ```
 aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/working_assets/SolLevante_Animatics_ver1_H264.mov .
 ```
@@ -84,3 +84,19 @@ aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/sparks/HDR10
 
 The original editorial file ```20161103_SPARKS_DOVI_METADATA_AR_CORRECT.xml``` was
 converted to .otio with ```SPARKS_HDR10_4K_2020_PQ_1000nits.py```.
+
+
+Meridian (2016)
+---------------
+A high dynamic range test film from Netflix.
+
+![Meridian_UHD4k5994_HDR_P3PQ](Meridian_UHD4k5994_HDR_P3PQ.PNG)
+
+### Meridian_UHD4k5994_HDR_P3PQ.otio
+
+This .otio file contains 82 clips using a 3840x2160 H264 movie for source footage.
+
+Downloading the content (811 MB):
+```
+>aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/Meridian/Meridian_UHD4k5994_HDR_P3PQ.mp4 .
+```
