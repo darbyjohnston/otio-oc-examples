@@ -94,10 +94,30 @@ To download the content (811 MB):
 >aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/Meridian/Meridian_UHD4k5994_HDR_P3PQ.mp4 .
 ```
 
+
 Chimera (2014)
 --------------
 ![Chimera](images/Chimera.PNG)
 
+### [Chimera_3840x2160_2997fps_10bit_422.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/Chimera_3840x2160_2997fps_10bit_422.otio)
+
+This .otio file contains 6 clips using 4096x2160 YUV movies for source footage.
+
+To download the content (79.4 GB):
+```
+>aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/Chimera .
+```
+
+
 El Fuente (2013)
 ----------------
 ![El Fuente](images/El_Fuente.PNG)
+
+### [ElFuente_4096x2160_60fps_10bit_420.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/ElFuente_4096x2160_60fps_10bit_420.otio)
+
+This .otio file contains 5 clips using 4096x2160 YUV movies for source footage.
+
+To download the content (35.3 GB):
+```
+>aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/ElFuente .
+```
