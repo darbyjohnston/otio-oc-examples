@@ -15,7 +15,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 
 Sol Levante (2020)
 ------------------
-![sSol Levante](images/Sol Levante.PNG)
+![Sol Levante](images/Sol_Levante.PNG)
 
 ### [SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio)
 
@@ -100,4 +100,4 @@ Chimera (2014)
 
 El Fuente (2013)
 ----------------
-![El Fuente](images/El Fuente.PNG)
+![El Fuente](images/El_Fuente.PNG)
