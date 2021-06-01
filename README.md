@@ -15,10 +15,7 @@ https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 
 Sol Levante (2020)
 ------------------
-An animated short film from Netflix.
-
-![sollevante_lp_vdm_16b_p3d65_pq_20200218_3840x2160](sollevante_lp_vdm_16b_p3d65_pq_20200218_3840x2160.PNG)
-![SolLevante_Animatics_ver1_H264](SolLevante_Animatics_ver1_H264.PNG)
+![sSol Levante](images/Sol Levante.PNG)
 
 ### [SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio)
 
@@ -57,9 +54,7 @@ aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/wor
 
 Sparks (2017)
 -------------
-A high dynamic range test film from Netflix.
-
-![SPARKS_P3_PQ_4000nit](SPARKS_P3_PQ_4000nit.PNG)
+![Sparks](images/Sparks.PNG)
 
 ### [SPARKS_P3_PQ_4000nit.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SPARKS_P3_PQ_4000nit.otio)
 
@@ -88,9 +83,7 @@ converted to .otio with ```SPARKS_HDR10_4K_2020_PQ_1000nits.py```.
 
 Meridian (2016)
 ---------------
-A high dynamic range test film from Netflix.
-
-![Meridian_UHD4k5994_HDR_P3PQ](Meridian_UHD4k5994_HDR_P3PQ.PNG)
+![Meridian](images/Meridian.PNG)
 
 ### [Meridian_UHD4k5994_HDR_P3PQ.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/Meridian_UHD4k5994_HDR_P3PQ.otio)
 
@@ -100,3 +93,11 @@ To download the content (811 MB):
 ```
 >aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/Meridian/Meridian_UHD4k5994_HDR_P3PQ.mp4 .
 ```
+
+Chimera (2014)
+--------------
+![Chimera](images/Chimera.PNG)
+
+El Fuente (2013)
+----------------
+![El Fuente](images/El Fuente.PNG)
