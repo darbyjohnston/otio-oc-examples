@@ -91,7 +91,7 @@ This .otio file contains 82 clips using a 3840x2160 H264 movie for source footag
 
 To download the content (811 MB):
 ```
->aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/Meridian/Meridian_UHD4k5994_HDR_P3PQ.mp4 .
+aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/Meridian/Meridian_UHD4k5994_HDR_P3PQ.mp4 .
 ```
 
 
@@ -105,7 +105,7 @@ This .otio file contains 6 clips using 4096x2160 YUV movies for source footage.
 
 To download the content (79.4 GB):
 ```
->aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/Chimera .
+aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/Chimera .
 ```
 
 
@@ -119,5 +119,5 @@ This .otio file contains 5 clips using 4096x2160 YUV movies for source footage.
 
 To download the content (35.3 GB):
 ```
->aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/ElFuente .
+aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/ElFuente .
 ```
