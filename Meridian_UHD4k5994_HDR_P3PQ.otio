@@ -100,7 +100,7 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 59.94,
-                                "value": 231
+                                "value": 241
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
