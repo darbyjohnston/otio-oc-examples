@@ -202,6 +202,40 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 59.94,
+                                "value": 115
+                            },
+                            "start_time": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94,
+                                "value": 938
+                            }
+                        },
+                        "name": "C005"
+                    },
+                    {
+                        "OTIO_SCHEMA": "Clip.1",
+                        "media_reference": {
+                            "OTIO_SCHEMA": "ExternalReference.1",
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 59.94,
+                                    "value": 43093
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 59.94,
+                                    "value": 0
+                                }
+                            },
+                            "target_url": "Meridian_UHD4k5994_HDR_P3PQ.mp4"
+                        },
+                        "source_range": {
+                            "OTIO_SCHEMA": "TimeRange.1",
+                            "duration": {
+                                "OTIO_SCHEMA": "RationalTime.1",
+                                "rate": 59.94,
                                 "value": 154
                             },
                             "start_time": {
@@ -210,7 +244,7 @@
                                 "value": 1053
                             }
                         },
-                        "name": "C005"
+                        "name": "C006"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -244,7 +278,7 @@
                                 "value": 1207
                             }
                         },
-                        "name": "C006"
+                        "name": "C007"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -278,7 +312,7 @@
                                 "value": 1384
                             }
                         },
-                        "name": "C007"
+                        "name": "C008"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -312,7 +346,7 @@
                                 "value": 1782
                             }
                         },
-                        "name": "C008"
+                        "name": "C009"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -346,7 +380,7 @@
                                 "value": 2164
                             }
                         },
-                        "name": "C009"
+                        "name": "C010"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -380,7 +414,7 @@
                                 "value": 2710
                             }
                         },
-                        "name": "C010"
+                        "name": "C011"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -414,7 +448,7 @@
                                 "value": 2915
                             }
                         },
-                        "name": "C011"
+                        "name": "C012"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -448,7 +482,7 @@
                                 "value": 3295
                             }
                         },
-                        "name": "C012"
+                        "name": "C013"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -482,7 +516,7 @@
                                 "value": 3509
                             }
                         },
-                        "name": "C013"
+                        "name": "C014"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -516,7 +550,7 @@
                                 "value": 4318
                             }
                         },
-                        "name": "C014"
+                        "name": "C015"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -550,7 +584,7 @@
                                 "value": 4558
                             }
                         },
-                        "name": "C015"
+                        "name": "C016"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -584,7 +618,7 @@
                                 "value": 4815
                             }
                         },
-                        "name": "C016"
+                        "name": "C017"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -618,7 +652,7 @@
                                 "value": 5160
                             }
                         },
-                        "name": "C017"
+                        "name": "C018"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -652,7 +686,7 @@
                                 "value": 5235
                             }
                         },
-                        "name": "C018"
+                        "name": "C019"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -686,7 +720,7 @@
                                 "value": 5371
                             }
                         },
-                        "name": "C019"
+                        "name": "C020"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -720,7 +754,7 @@
                                 "value": 5987
                             }
                         },
-                        "name": "C020"
+                        "name": "C021"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -754,7 +788,7 @@
                                 "value": 6298
                             }
                         },
-                        "name": "C021"
+                        "name": "C022"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -788,7 +822,7 @@
                                 "value": 6511
                             }
                         },
-                        "name": "C022"
+                        "name": "C023"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -822,7 +856,7 @@
                                 "value": 6632
                             }
                         },
-                        "name": "C023"
+                        "name": "C024"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -856,7 +890,7 @@
                                 "value": 7137
                             }
                         },
-                        "name": "C024"
+                        "name": "C025"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -890,7 +924,7 @@
                                 "value": 7268
                             }
                         },
-                        "name": "C025"
+                        "name": "C026"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -924,7 +958,7 @@
                                 "value": 7996
                             }
                         },
-                        "name": "C026"
+                        "name": "C027"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -958,7 +992,7 @@
                                 "value": 8232
                             }
                         },
-                        "name": "C027"
+                        "name": "C028"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -992,7 +1026,7 @@
                                 "value": 8464
                             }
                         },
-                        "name": "C028"
+                        "name": "C029"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1026,7 +1060,7 @@
                                 "value": 8730
                             }
                         },
-                        "name": "C029"
+                        "name": "C030"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1060,7 +1094,7 @@
                                 "value": 9929
                             }
                         },
-                        "name": "C030"
+                        "name": "C031"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1094,7 +1128,7 @@
                                 "value": 10091
                             }
                         },
-                        "name": "C031"
+                        "name": "C032"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1128,7 +1162,7 @@
                                 "value": 10526
                             }
                         },
-                        "name": "C032"
+                        "name": "C033"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1162,7 +1196,7 @@
                                 "value": 11143
                             }
                         },
-                        "name": "C033"
+                        "name": "C034"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1196,7 +1230,7 @@
                                 "value": 11455
                             }
                         },
-                        "name": "C034"
+                        "name": "C035"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1230,7 +1264,7 @@
                                 "value": 11872
                             }
                         },
-                        "name": "C035"
+                        "name": "C036"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1264,7 +1298,7 @@
                                 "value": 12264
                             }
                         },
-                        "name": "C036"
+                        "name": "C037"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1298,7 +1332,7 @@
                                 "value": 14284
                             }
                         },
-                        "name": "C037"
+                        "name": "C038"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1332,7 +1366,7 @@
                                 "value": 14411
                             }
                         },
-                        "name": "C038"
+                        "name": "C039"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1366,7 +1400,7 @@
                                 "value": 15196
                             }
                         },
-                        "name": "C039"
+                        "name": "C040"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1400,7 +1434,7 @@
                                 "value": 15352
                             }
                         },
-                        "name": "C040"
+                        "name": "C041"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1434,7 +1468,7 @@
                                 "value": 15587
                             }
                         },
-                        "name": "C041"
+                        "name": "C042"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1468,7 +1502,7 @@
                                 "value": 15932
                             }
                         },
-                        "name": "C042"
+                        "name": "C043"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1502,7 +1536,7 @@
                                 "value": 16310
                             }
                         },
-                        "name": "C043"
+                        "name": "C044"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1536,7 +1570,7 @@
                                 "value": 17666
                             }
                         },
-                        "name": "C044"
+                        "name": "C045"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1570,7 +1604,7 @@
                                 "value": 20169
                             }
                         },
-                        "name": "C045"
+                        "name": "C046"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1604,7 +1638,7 @@
                                 "value": 20987
                             }
                         },
-                        "name": "C046"
+                        "name": "C047"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1638,7 +1672,7 @@
                                 "value": 21413
                             }
                         },
-                        "name": "C047"
+                        "name": "C048"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1672,7 +1706,7 @@
                                 "value": 21647
                             }
                         },
-                        "name": "C048"
+                        "name": "C049"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1706,7 +1740,7 @@
                                 "value": 21814
                             }
                         },
-                        "name": "C049"
+                        "name": "C050"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1740,7 +1774,7 @@
                                 "value": 22411
                             }
                         },
-                        "name": "C050"
+                        "name": "C051"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1774,7 +1808,7 @@
                                 "value": 23720
                             }
                         },
-                        "name": "C051"
+                        "name": "C052"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1808,7 +1842,7 @@
                                 "value": 24058
                             }
                         },
-                        "name": "C052"
+                        "name": "C053"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1842,7 +1876,7 @@
                                 "value": 24551
                             }
                         },
-                        "name": "C053"
+                        "name": "C054"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1876,7 +1910,7 @@
                                 "value": 24892
                             }
                         },
-                        "name": "C054"
+                        "name": "C055"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1910,7 +1944,7 @@
                                 "value": 26247
                             }
                         },
-                        "name": "C055"
+                        "name": "C056"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1944,7 +1978,7 @@
                                 "value": 26869
                             }
                         },
-                        "name": "C056"
+                        "name": "C057"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -1978,7 +2012,7 @@
                                 "value": 27026
                             }
                         },
-                        "name": "C057"
+                        "name": "C058"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2012,7 +2046,7 @@
                                 "value": 27544
                             }
                         },
-                        "name": "C058"
+                        "name": "C059"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2046,7 +2080,7 @@
                                 "value": 27660
                             }
                         },
-                        "name": "C059"
+                        "name": "C060"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2080,7 +2114,7 @@
                                 "value": 28005
                             }
                         },
-                        "name": "C060"
+                        "name": "C061"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2114,7 +2148,7 @@
                                 "value": 28154
                             }
                         },
-                        "name": "C061"
+                        "name": "C062"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2148,7 +2182,7 @@
                                 "value": 28212
                             }
                         },
-                        "name": "C062"
+                        "name": "C063"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2182,7 +2216,7 @@
                                 "value": 28592
                             }
                         },
-                        "name": "C063"
+                        "name": "C064"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2216,7 +2250,7 @@
                                 "value": 28894
                             }
                         },
-                        "name": "C064"
+                        "name": "C065"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2250,7 +2284,7 @@
                                 "value": 29351
                             }
                         },
-                        "name": "C065"
+                        "name": "C066"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2284,7 +2318,7 @@
                                 "value": 29765
                             }
                         },
-                        "name": "C066"
+                        "name": "C067"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2318,7 +2352,7 @@
                                 "value": 30217
                             }
                         },
-                        "name": "C067"
+                        "name": "C068"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2352,7 +2386,7 @@
                                 "value": 30666
                             }
                         },
-                        "name": "C068"
+                        "name": "C069"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2386,7 +2420,7 @@
                                 "value": 31119
                             }
                         },
-                        "name": "C069"
+                        "name": "C070"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2420,7 +2454,7 @@
                                 "value": 31637
                             }
                         },
-                        "name": "C070"
+                        "name": "C071"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2454,7 +2488,7 @@
                                 "value": 31825
                             }
                         },
-                        "name": "C071"
+                        "name": "C072"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2480,7 +2514,7 @@
                             "duration": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 59.94,
-                                "value": 899
+                                "value": 179
                             },
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
@@ -2488,7 +2522,7 @@
                                 "value": 31910
                             }
                         },
-                        "name": "C072"
+                        "name": "C073"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2522,7 +2556,7 @@
                                 "value": 32089
                             }
                         },
-                        "name": "C073"
+                        "name": "C074"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2556,7 +2590,7 @@
                                 "value": 32288
                             }
                         },
-                        "name": "C074"
+                        "name": "C075"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2590,7 +2624,7 @@
                                 "value": 32753
                             }
                         },
-                        "name": "C075"
+                        "name": "C076"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2624,7 +2658,7 @@
                                 "value": 32906
                             }
                         },
-                        "name": "C076"
+                        "name": "C077"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2658,7 +2692,7 @@
                                 "value": 33176
                             }
                         },
-                        "name": "C077"
+                        "name": "C078"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2692,7 +2726,7 @@
                                 "value": 33766
                             }
                         },
-                        "name": "C078"
+                        "name": "C079"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2726,7 +2760,7 @@
                                 "value": 34011
                             }
                         },
-                        "name": "C079"
+                        "name": "C080"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
@@ -2760,7 +2794,7 @@
                                 "value": 34207
                             }
                         },
-                        "name": "C080"
+                        "name": "C081"
                     },
                     {
                         "OTIO_SCHEMA": "Clip.1",
