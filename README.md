@@ -14,7 +14,7 @@ Sol Levante (2020)
 ==================
 ![Sol Levante](images/Sol_Levante.PNG)
 
-[SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio)
+### [SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio)
 
 This .otio file consists of 72 clips with a 3840x2160 ProRes movie file for source footage.
 
