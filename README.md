@@ -7,9 +7,9 @@ The examples are based on open source content from [Netflix](https://opencontent
 The content is provided under the terms of this [license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 The content can be downloaded with the AWS Command Line Interface, documentation
-is available [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html).
+is available [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html).  
 
-<br />
+
 Sol Levante (2020)
 ==================
 ![Sol Levante](images/Sol_Levante.PNG)
