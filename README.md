@@ -1,16 +1,13 @@
 OpenTimelineIO Open Content Examples
 ====================================
-This repository contains example files for use with OpenTimelineIO applications.  
-https://github.com/PixarAnimationStudios/OpenTimelineIO
+This repository contains example files for use with
+[OpenTimelineIO](https://github.com/PixarAnimationStudios/OpenTimelineIO) applications.
 
-The examples are based on open source content from Netflix:  
-https://opencontent.netflix.com/
+The examples are based on open source content from [Netflix](https://opencontent.netflix.com/).
+The Netflix open source content is covered by this [license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-The Netflix open source content license:  
-https://creativecommons.org/licenses/by/4.0/legalcode
-
-Documentation on using the AWS Command Line Interface to download the content:  
-https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
+[Documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html)
+on using the AWS Command Line Interface to download the content.
 
 
 Sol Levante (2020)
