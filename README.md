@@ -9,7 +9,7 @@ The content is provided under the terms of this [license](https://creativecommon
 The content can be downloaded with the AWS Command Line Interface, documentation
 is available [here](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html).
 
-
+  
 Sol Levante (2020)
 ==================
 ![Sol Levante](images/Sol_Levante.PNG)
