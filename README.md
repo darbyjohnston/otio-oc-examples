@@ -116,6 +116,8 @@ El Fuente (2013)
 
 This .otio file contains 5 clips with multiple 4096x2160 YUV movie filess for source footage.
 
+![ElFuente_4096x2160_60fps_10bit_420](images/ElFuente_4096x2160_60fps_10bit_420.svg)
+
 To download the content (35.3 GB):
 ```
 aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/ElFuente .

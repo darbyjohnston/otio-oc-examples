@@ -42,7 +42,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -69,7 +81,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -96,7 +120,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -123,7 +159,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -150,7 +198,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -177,7 +237,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -204,7 +276,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -231,7 +315,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -258,7 +354,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -285,7 +393,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -312,7 +432,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -339,7 +471,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -366,7 +510,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -393,7 +549,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -420,7 +588,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -447,7 +627,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -474,7 +666,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -501,7 +705,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -528,7 +744,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -555,7 +783,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -582,7 +822,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -609,7 +861,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -636,7 +900,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -663,7 +939,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -690,7 +978,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -717,7 +1017,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -744,7 +1056,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -771,7 +1095,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -798,7 +1134,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -825,7 +1173,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -852,7 +1212,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -879,7 +1251,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -906,7 +1290,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -933,7 +1329,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -960,7 +1368,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -987,7 +1407,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1014,7 +1446,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1041,7 +1485,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1068,7 +1524,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1095,7 +1563,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1122,7 +1602,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1149,7 +1641,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1176,7 +1680,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1203,7 +1719,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1230,7 +1758,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1257,7 +1797,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1284,7 +1836,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1311,7 +1875,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1338,7 +1914,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1365,7 +1953,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1392,7 +1992,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1419,7 +2031,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1446,7 +2070,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1473,7 +2109,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1500,7 +2148,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1527,7 +2187,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1554,7 +2226,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1581,7 +2265,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1608,7 +2304,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1635,7 +2343,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1662,7 +2382,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1689,7 +2421,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1716,7 +2460,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1743,7 +2499,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1770,7 +2538,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1797,7 +2577,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1824,7 +2616,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1851,7 +2655,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1878,7 +2694,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1905,7 +2733,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1932,7 +2772,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     },
@@ -1959,7 +2811,19 @@
                             "OTIO_SCHEMA": "ExternalReference.1",
                             "metadata": {},
                             "name": "",
-                            "available_range": null,
+                            "available_range": {
+                                "OTIO_SCHEMA": "TimeRange.1",
+                                "duration": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 6314
+                                },
+                                "start_time": {
+                                    "OTIO_SCHEMA": "RationalTime.1",
+                                    "rate": 24.0,
+                                    "value": 0
+                                }
+                            },
                             "target_url": "SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov"
                         }
                     }
