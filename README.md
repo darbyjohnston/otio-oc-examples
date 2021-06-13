@@ -100,6 +100,8 @@ Chimera (2014)
 
 This .otio file contains 6 clips with multiple 4096x2160 YUV movie files for source footage.
 
+![Chimera_3840x2160_2997fps_10bit_422](images/Chimera_3840x2160_2997fps_10bit_422.svg)
+
 To download the content (79.4 GB):
 ```
 aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/Chimera .
