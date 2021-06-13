@@ -114,7 +114,7 @@ El Fuente (2013)
 
 ### [ElFuente_4096x2160_60fps_10bit_420.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/ElFuente_4096x2160_60fps_10bit_420.otio)
 
-This .otio file contains 5 clips with multiple 4096x2160 YUV movie filess for source footage.
+This .otio file contains 5 clips with multiple 4096x2160 YUV movie files for source footage.
 
 ![ElFuente_4096x2160_60fps_10bit_420](images/ElFuente_4096x2160_60fps_10bit_420.svg)
 
