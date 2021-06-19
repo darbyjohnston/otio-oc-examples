@@ -123,7 +123,7 @@ To download the content (35.3 GB):
 aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/ElFuente .
 ```
 
-### [ElFuente_4096x2160_60fps_10bit_420.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/ElFuente_4096x2160_60fps_10bit_420_remix1.otio)
+### [ElFuente_4096x2160_60fps_10bit_420_remix1.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/ElFuente_4096x2160_60fps_10bit_420_remix1.otio)
 
 This .otio file contains 5 clips with multiple 4096x2160 YUV movie files for source footage.
 The clips have dissolve transitions and there is a second video track that overlays a title
