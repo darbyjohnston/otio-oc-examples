@@ -53,27 +53,22 @@ Sparks (2017)
 =============
 ![Sparks](images/Sparks.PNG)
 
-### [SPARKS_P3_PQ_4000nit.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SPARKS_P3_PQ_4000nit.otio)
+39 clips @ 59.94 FPS
 
-This .otio file contains 39 clips with a 4096x2160 16-bit float EXR file sequence for source footage.
-
-To download the content (681 GB):
+### 4096x2160 16-bit float EXR sequence (681 GB):
+[SPARKS_P3_PQ_4000nit.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SPARKS_P3_PQ_4000nit.otio)
 ```
 aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/sparks/SPARKS_4K_P3_PQ_4000nits_EXR .
 ```
-
 The original editorial file ```20161103_SPARKS_DOVI_METADATA_AR_CORRECT.xml``` was
 converted to .otio with ```SPARKS_P3_PQ_4000nit.py```.
 
-### [SPARKS_HDR10_4K_2020_PQ_1000nits.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SPARKS_HDR10_4K_2020_PQ_1000nits.otio)
-
-This .otio file contains 39 clips with a 4096x2160 16-bit TIFF file sequence for source footage.
-
+### 4096x2160 16-bit TIFF file sequence (681 GB):
+[SPARKS_HDR10_4K_2020_PQ_1000nits.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SPARKS_HDR10_4K_2020_PQ_1000nits.otio)
 To download the content (681 GB):
 ```
 aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/sparks/HDR10_1000nit_PQ_2020_image_sequence .
 ```
-
 The original editorial file ```20161103_SPARKS_DOVI_METADATA_AR_CORRECT.xml``` was
 converted to .otio with ```SPARKS_HDR10_4K_2020_PQ_1000nits.py```.
 
@@ -82,11 +77,10 @@ Meridian (2016)
 ===============
 ![Meridian](images/Meridian.PNG)
 
-### [Meridian_UHD4k5994_HDR_P3PQ.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/Meridian_UHD4k5994_HDR_P3PQ.otio)
+83 clips @ 59.94 FPS
 
-This .otio file contains 83 clips with a 3840x2160 H264 movie file for source footage.
-
-To download the content (811 MB):
+### 3840x2160 H264 movie file (811 MB):
+[Meridian_UHD4k5994_HDR_P3PQ.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/Meridian_UHD4k5994_HDR_P3PQ.otio)
 ```
 aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/Meridian/Meridian_UHD4k5994_HDR_P3PQ.mp4 .
 ```
@@ -96,42 +90,30 @@ Chimera (2014)
 ==============
 ![Chimera](images/Chimera.PNG)
 
-### [Chimera_3840x2160_2997fps_10bit_422.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/Chimera_3840x2160_2997fps_10bit_422.otio)
+6 clips @ 29.97 FPS
 
-This .otio file contains 6 clips with multiple 4096x2160 YUV movie files for source footage.
-
-![Chimera_3840x2160_2997fps_10bit_422](images/Chimera_3840x2160_2997fps_10bit_422.svg)
-
-To download the content (79.4 GB):
+### 3840x2160 YUB movie files (79 GB):
+[Chimera_3840x2160_2997fps_10bit_422.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/Chimera_3840x2160_2997fps_10bit_422.otio)
 ```
 aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/Chimera .
 ```
+
+![Chimera_3840x2160_2997fps_10bit_422](images/Chimera_3840x2160_2997fps_10bit_422.svg)
 
 
 El Fuente (2013)
 ================
 ![El Fuente](images/El_Fuente.PNG)
 
-### [ElFuente_4096x2160_60fps_10bit_420.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/ElFuente_4096x2160_60fps_10bit_420.otio)
+5 clips @ 60 FPS
 
-This .otio file contains 5 clips with multiple 4096x2160 YUV movie files for source footage.
-
-![ElFuente_4096x2160_60fps_10bit_420](images/ElFuente_4096x2160_60fps_10bit_420.svg)
-
-To download the content (35.3 GB):
+### 4096x2160 YUV movie files (35 GB):
+[ElFuente_4096x2160_60fps_10bit_420.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/ElFuente_4096x2160_60fps_10bit_420.otio)
 ```
 aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/ElFuente .
 ```
 
-### [ElFuente_4096x2160_60fps_10bit_420_remix1.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/ElFuente_4096x2160_60fps_10bit_420_remix1.otio)
-
-This .otio file contains 5 clips with multiple 4096x2160 YUV movie files for source footage.
-The clips have dissolve transitions and there is a second video track that overlays a title
-image.
+Alternate version with dissolves and a second video track that overlays a title image:
+[ElFuente_4096x2160_60fps_10bit_420_remix1.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/ElFuente_4096x2160_60fps_10bit_420_remix1.otio)
 
 ![ElFuente_4096x2160_60fps_10bit_420_remix1](images/ElFuente_4096x2160_60fps_10bit_420_remix1.svg)
-
-To download the content (35.3 GB):
-```
-aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_materials/ElFuente .
-```
