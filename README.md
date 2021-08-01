@@ -26,7 +26,7 @@ Sol Levante (2020)
 
 72 clips @ 24FPS
 
-3840x2160 ProRes movie file (35 GB):
+### 3840x2160 ProRes movie file (35 GB):
 [SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.otio)
 ```
 aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/hdr10/SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.mov .
@@ -34,7 +34,7 @@ aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/hdr
 The original editorial file ```sollevante_lp_16b_hdr_p3d65pq_dolbyvision29.xml``` was
 converted to .otio with ```SolLevante_HDR10_r2020_ST2084_UHD_24fps_1000nit.py```.
 
-3840x2160 16-bit TIFF file sequence (144 GB):
+### 3840x2160 16-bit TIFF file sequence (144 GB):
 [sollevante_lp_vdm_16b_p3d65_pq_20200218_3840x2160.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/sollevante_lp_vdm_16b_p3d65_pq_20200218_3840x2160.otio)
 ```
 aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/vdm/sollevante_lp_vdm_16b_p3d65_pq_20200218_3840x2160.zip .
@@ -42,7 +42,7 @@ aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/vdm
 The original editorial file ```sollevante_lp_16b_hdr_p3d65pq_dolbyvision29.xml``` was
 converted to .otio with ```sollevante_lp_vdm_16b_p3d65_pq_20200218_3840x2160.py```.
 
-1920x1080 H264 movie file (320 MB):
+### 1920x1080 H264 movie file (320 MB):
 [SolLevante_Animatics_ver1_H264.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SolLevante_Animatics_ver1_H264.otio)
 ```
 aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/working_assets/SolLevante_Animatics_ver1_H264.mov .
