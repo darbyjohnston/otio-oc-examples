@@ -63,7 +63,7 @@ aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/sparks/SPARK
 The original editorial file ```20161103_SPARKS_DOVI_METADATA_AR_CORRECT.xml``` was
 converted to .otio with ```SPARKS_P3_PQ_4000nit.py```.
 
-### 4096x2160 16-bit TIFF file sequence (681 GB):
+### 4096x2160 16-bit TIFF sequence (681 GB):
 [SPARKS_HDR10_4K_2020_PQ_1000nits.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/SPARKS_HDR10_4K_2020_PQ_1000nits.otio)
 To download the content (681 GB):
 ```
