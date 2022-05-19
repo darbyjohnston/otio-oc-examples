@@ -25,7 +25,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "Chimera-ep01_3840x2160_2997fps_10bit_422.y4m"
+                            "target_url": "file://Chimera-ep01_3840x2160_2997fps_10bit_422.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
@@ -59,7 +59,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "Chimera-ep02_3840x2160_2997fps_10bit_422.y4m"
+                            "target_url": "file://Chimera-ep02_3840x2160_2997fps_10bit_422.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
@@ -93,7 +93,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "Chimera-ep08_3840x2160_2997fps_10bit_422.y4m"
+                            "target_url": "file://Chimera-ep08_3840x2160_2997fps_10bit_422.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
@@ -127,7 +127,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "Chimera-ep11_3840x2160_2997fps_10bit_422.y4m"
+                            "target_url": "file://Chimera-ep11_3840x2160_2997fps_10bit_422.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
@@ -161,7 +161,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "Chimera-ep12_3840x2160_2997fps_10bit_422.y4m"
+                            "target_url": "file://Chimera-ep12_3840x2160_2997fps_10bit_422.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
@@ -195,7 +195,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "Chimera-ep16_3840x2160_2997fps_10bit_422.y4m"
+                            "target_url": "file://Chimera-ep16_3840x2160_2997fps_10bit_422.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
