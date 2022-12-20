@@ -27,7 +27,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -42,7 +42,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 0
+                                "value": 86160
                             }
                         },
                         "name": "Leader"
@@ -61,7 +61,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -76,7 +76,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 240
+                                "value": 86400
                             }
                         },
                         "name": "C001"
@@ -95,7 +95,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -110,7 +110,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 454
+                                "value": 86614
                             }
                         },
                         "name": "C002"
@@ -129,7 +129,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -144,7 +144,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 512
+                                "value": 86672
                             }
                         },
                         "name": "C003"
@@ -163,7 +163,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -178,7 +178,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 619
+                                "value": 86779
                             }
                         },
                         "name": "C004"
@@ -197,7 +197,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -212,7 +212,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 668
+                                "value": 86828
                             }
                         },
                         "name": "C005"
@@ -231,7 +231,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -246,7 +246,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 793
+                                "value": 86953
                             }
                         },
                         "name": "C006"
@@ -265,7 +265,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -280,7 +280,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 817
+                                "value": 86977
                             }
                         },
                         "name": "C007"
@@ -299,7 +299,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -314,7 +314,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 868
+                                "value": 87028
                             }
                         },
                         "name": "C008"
@@ -333,7 +333,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -348,7 +348,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 888
+                                "value": 87048
                             }
                         },
                         "name": "C009"
@@ -367,7 +367,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -382,7 +382,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 908
+                                "value": 87068
                             }
                         },
                         "name": "C010"
@@ -401,7 +401,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -416,7 +416,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 944
+                                "value": 87104
                             }
                         },
                         "name": "C011"
@@ -435,7 +435,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -450,7 +450,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 960
+                                "value": 87120
                             }
                         },
                         "name": "C012"
@@ -469,7 +469,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -484,7 +484,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 973
+                                "value": 87133
                             }
                         },
                         "name": "C013"
@@ -503,7 +503,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -518,7 +518,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1005
+                                "value": 87165
                             }
                         },
                         "name": "C014"
@@ -537,7 +537,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -552,7 +552,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1012
+                                "value": 87172
                             }
                         },
                         "name": "C015"
@@ -571,7 +571,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -586,7 +586,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1036
+                                "value": 87196
                             }
                         },
                         "name": "C016"
@@ -605,7 +605,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -620,7 +620,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1111
+                                "value": 87271
                             }
                         },
                         "name": "C017"
@@ -639,7 +639,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -654,7 +654,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1173
+                                "value": 87333
                             }
                         },
                         "name": "C018"
@@ -673,7 +673,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -688,7 +688,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1218
+                                "value": 87378
                             }
                         },
                         "name": "C019"
@@ -707,7 +707,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -722,7 +722,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1250
+                                "value": 87410
                             }
                         },
                         "name": "C020"
@@ -741,7 +741,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -756,7 +756,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1263
+                                "value": 87423
                             }
                         },
                         "name": "C021"
@@ -775,7 +775,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -790,7 +790,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1304
+                                "value": 87464
                             }
                         },
                         "name": "C022"
@@ -809,7 +809,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -824,7 +824,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1346
+                                "value": 87506
                             }
                         },
                         "name": "C023"
@@ -843,7 +843,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -858,7 +858,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1408
+                                "value": 87568
                             }
                         },
                         "name": "C024"
@@ -877,7 +877,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -892,7 +892,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1490
+                                "value": 87650
                             }
                         },
                         "name": "C025"
@@ -911,7 +911,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -926,7 +926,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1565
+                                "value": 87725
                             }
                         },
                         "name": "C026"
@@ -945,7 +945,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -960,7 +960,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1613
+                                "value": 87773
                             }
                         },
                         "name": "C027"
@@ -979,7 +979,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -994,7 +994,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1697
+                                "value": 87857
                             }
                         },
                         "name": "C028"
@@ -1013,7 +1013,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1028,7 +1028,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1773
+                                "value": 87933
                             }
                         },
                         "name": "C029"
@@ -1047,7 +1047,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1062,7 +1062,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1792
+                                "value": 87952
                             }
                         },
                         "name": "C030"
@@ -1081,7 +1081,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1096,7 +1096,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1805
+                                "value": 87965
                             }
                         },
                         "name": "C031"
@@ -1115,7 +1115,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1130,7 +1130,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1899
+                                "value": 88059
                             }
                         },
                         "name": "C032"
@@ -1149,7 +1149,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1164,7 +1164,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1918
+                                "value": 88078
                             }
                         },
                         "name": "C033"
@@ -1183,7 +1183,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1198,7 +1198,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 1982
+                                "value": 88142
                             }
                         },
                         "name": "C034"
@@ -1217,7 +1217,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1232,7 +1232,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2101
+                                "value": 88261
                             }
                         },
                         "name": "C035"
@@ -1251,7 +1251,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1266,7 +1266,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2172
+                                "value": 88332
                             }
                         },
                         "name": "C036"
@@ -1285,7 +1285,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1300,7 +1300,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2196
+                                "value": 88356
                             }
                         },
                         "name": "C037"
@@ -1319,7 +1319,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1334,7 +1334,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2220
+                                "value": 88380
                             }
                         },
                         "name": "C038"
@@ -1353,7 +1353,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1368,7 +1368,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2265
+                                "value": 88425
                             }
                         },
                         "name": "C039"
@@ -1387,7 +1387,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1402,7 +1402,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2325
+                                "value": 88485
                             }
                         },
                         "name": "C040"
@@ -1421,7 +1421,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1436,7 +1436,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2365
+                                "value": 88525
                             }
                         },
                         "name": "C041"
@@ -1455,7 +1455,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1470,7 +1470,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2425
+                                "value": 88585
                             }
                         },
                         "name": "C042"
@@ -1489,7 +1489,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1504,7 +1504,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2446
+                                "value": 88606
                             }
                         },
                         "name": "C043"
@@ -1523,7 +1523,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1538,7 +1538,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2491
+                                "value": 88651
                             }
                         },
                         "name": "C044"
@@ -1557,7 +1557,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1572,7 +1572,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2539
+                                "value": 88699
                             }
                         },
                         "name": "C045"
@@ -1591,7 +1591,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1606,7 +1606,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2591
+                                "value": 88751
                             }
                         },
                         "name": "C046"
@@ -1625,7 +1625,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1640,7 +1640,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2609
+                                "value": 88769
                             }
                         },
                         "name": "C047"
@@ -1659,7 +1659,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1674,7 +1674,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2623
+                                "value": 88783
                             }
                         },
                         "name": "C048"
@@ -1693,7 +1693,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1708,7 +1708,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2671
+                                "value": 88831
                             }
                         },
                         "name": "C049"
@@ -1727,7 +1727,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1742,7 +1742,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2758
+                                "value": 88918
                             }
                         },
                         "name": "C050"
@@ -1761,7 +1761,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1776,7 +1776,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2815
+                                "value": 88975
                             }
                         },
                         "name": "C051"
@@ -1795,7 +1795,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1810,7 +1810,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2855
+                                "value": 89015
                             }
                         },
                         "name": "C052"
@@ -1829,7 +1829,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1844,7 +1844,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2917
+                                "value": 89077
                             }
                         },
                         "name": "C053"
@@ -1863,7 +1863,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1878,7 +1878,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 2974
+                                "value": 89134
                             }
                         },
                         "name": "C054"
@@ -1897,7 +1897,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1912,7 +1912,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 3020
+                                "value": 89180
                             }
                         },
                         "name": "C055"
@@ -1931,7 +1931,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1946,7 +1946,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 3125
+                                "value": 89285
                             }
                         },
                         "name": "C056"
@@ -1965,7 +1965,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -1980,7 +1980,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 3166
+                                "value": 89326
                             }
                         },
                         "name": "C057"
@@ -1999,7 +1999,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -2014,7 +2014,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 3246
+                                "value": 89406
                             }
                         },
                         "name": "C058"
@@ -2033,7 +2033,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -2048,7 +2048,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 3325
+                                "value": 89485
                             }
                         },
                         "name": "C059"
@@ -2067,7 +2067,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -2082,7 +2082,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 3408
+                                "value": 89568
                             }
                         },
                         "name": "C060"
@@ -2101,7 +2101,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -2116,7 +2116,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 3479
+                                "value": 89639
                             }
                         },
                         "name": "C061"
@@ -2135,7 +2135,7 @@
                                 "start_time": {
                                     "OTIO_SCHEMA": "RationalTime.1",
                                     "rate": 23.976023976023978,
-                                    "value": 0
+                                    "value": 86160
                                 }
                             },
                             "target_url": "file://SolLevante_Animatics_ver1_H264.mov"
@@ -2150,7 +2150,7 @@
                             "start_time": {
                                 "OTIO_SCHEMA": "RationalTime.1",
                                 "rate": 23.976023976023978,
-                                "value": 3543
+                                "value": 89703
                             }
                         },
                         "name": "Credits"
