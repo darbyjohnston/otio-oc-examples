@@ -25,7 +25,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "file://Netflix_BoxingPractice_4096x2160_60fps_10bit_420.y4m"
+                            "target_url": "Netflix_BoxingPractice_4096x2160_60fps_10bit_420.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
@@ -59,7 +59,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "file://Netflix_FoodMarket2_4096x2160_60fps_10bit_420.y4m"
+                            "target_url": "Netflix_FoodMarket2_4096x2160_60fps_10bit_420.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
@@ -93,7 +93,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "file://Netflix_Narrator_4096x2160_60fps_10bit_420.y4m"
+                            "target_url": "Netflix_Narrator_4096x2160_60fps_10bit_420.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
@@ -127,7 +127,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "file://Netflix_RitualDanceShot_4096x2160_60fps_10bit_420.y4m"
+                            "target_url": "Netflix_RitualDanceShot_4096x2160_60fps_10bit_420.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
@@ -161,7 +161,7 @@
                                     "value": 0
                                 }
                             },
-                            "target_url": "file://Netflix_Tango_4096x2160_60fps_10bit_420.y4m"
+                            "target_url": "Netflix_Tango_4096x2160_60fps_10bit_420.y4m"
                         },
                         "source_range": {
                             "OTIO_SCHEMA": "TimeRange.1",
