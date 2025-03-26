@@ -11,18 +11,38 @@ Including movie files (H264, ProRes), image sequences (EXR, TIFF), high frame ra
 (50.94, 60), high resolutions (4096x2160, 3840x2160), and high dynamic range (10-bit,
 16-bit float).
 
-Footage is provided by Netflix under the Creative Commons Attribution 4.0 International
+ASC footage is provided under the license found on this page:
+https://dpel.aswf.io/asc-stem2/
+
+Netflix footage is licensed under the Creative Commons Attribution 4.0 International
 Public License:
 https://opencontent.netflix.com/
 
-Source footage is hosted on AWS and can be downloaded directly with a web browser or
+Netflix source footage is hosted on AWS and can be downloaded directly with a web browser or
 with the AWS command line interface:
 https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 
 
+ASC StEM2 (2022)
+================
+![ASC StEM2](images/ASC_StEM2.png)
+
+198 clips @ 24FPS
+
+### 4096x1716 EXR file sequence (1.2 TB):
+[STEM2_4k_ctm_ACES_239.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/STEM2_4k_ctm_ACES_239.otio)
+https://aswf-dpel-assets.s3.amazonaws.com/asc-stem2/EXR/mission_StEM2_EXR_239_4096x1716.zip
+
+The .wav file referenced in the .otio file can be extracted from a movie file with FFmpeg:
+https://aswf-dpel-assets.s3.amazonaws.com/asc-stem2/ASC_StEM2_178_UHD_ST2084_1000nits_Rec2020_Stereo_ProRes4444XQ.mov
+```
+ffmpeg -i ASC_StEM2_178_UHD_ST2084_1000nits_Rec2020_Stereo_ProRes4444XQ.mov ASC_StEM2_178_UHD_ST2084_1000nits_Rec2020_Stereo_ProRes4444XQ.wav
+```
+
+
 Sol Levante (2020)
 ==================
-![Sol Levante](images/Sol_Levante.PNG)
+![Sol Levante](images/Sol_Levante.png)
 
 72 clips @ 24FPS
 
@@ -51,7 +71,7 @@ aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/SolLevante/wor
 
 Sparks (2017)
 =============
-![Sparks](images/Sparks.PNG)
+![Sparks](images/Sparks.png)
 
 39 clips @ 59.94 FPS
 
@@ -75,7 +95,7 @@ converted to .otio with ```SPARKS_HDR10_4K_2020_PQ_1000nits.py```.
 
 Meridian (2016)
 ===============
-![Meridian](images/Meridian.PNG)
+![Meridian](images/Meridian.png)
 
 83 clips @ 59.94 FPS
 
@@ -88,7 +108,7 @@ aws s3 cp --no-sign-request s3://download.opencontent.netflix.com/Meridian/Merid
 
 Chimera (2014)
 ==============
-![Chimera](images/Chimera.PNG)
+![Chimera](images/Chimera.png)
 
 6 clips @ 29.97 FPS
 
@@ -103,7 +123,7 @@ aws s3 sync --no-sign-request s3://download.opencontent.netflix.com/aom_test_mat
 
 El Fuente (2013)
 ================
-![El Fuente](images/El_Fuente.PNG)
+![El Fuente](images/El_Fuente.png)
 
 5 clips @ 60 FPS
 
