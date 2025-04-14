@@ -40,6 +40,11 @@ https://aswf-dpel-assets.s3.amazonaws.com/asc-stem2/ASC_StEM2_178_UHD_ST2084_100
 ffmpeg -i ASC_StEM2_178_UHD_ST2084_1000nits_Rec2020_Stereo_ProRes4444XQ.mov ASC_StEM2_178_UHD_ST2084_1000nits_Rec2020_Stereo_ProRes4444XQ.wav
 ```
 
+### 4096x1716 ProRes movie file (55 GB):
+[ASC_StEM2_239_4K_24_100nits_Rec709_Stereo_ProRes422HQ.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/ASC_StEM2_239_4K_24_100nits_Rec709_Stereo_ProRes422HQ.otio)
+
+https://aswf-dpel-assets.s3.amazonaws.com/asc-stem2/ASC_StEM2_239_4K_24_100nits_Rec709_Stereo_ProRes422HQ.mov
+
 
 Sol Levante (2020)
 ==================
