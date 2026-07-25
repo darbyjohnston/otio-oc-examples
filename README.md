@@ -45,6 +45,60 @@ ffmpeg -i ASC_StEM2_178_UHD_ST2084_1000nits_Rec2020_Stereo_ProRes4444XQ.mov ASC_
 
 https://aswf-dpel-assets.s3.amazonaws.com/asc-stem2/ASC_StEM2_239_4K_24_100nits_Rec709_Stereo_ProRes422HQ.mov
 
+### Multiple media references, spatial coordinates, and clip colors:
+[StEM2_MultipleMediaRefs.otio](https://github.com/darbyjohnston/otio-oc-examples/blob/main/StEM2_MultipleMediaRefs.otio)
+
+Combines the two conforms above into a single timeline where every clip carries two media
+references:
+
+* ```Proxy``` - a small H264 movie, picture and sound
+* ```Full``` - the EXR sequence, and the .wav for the audio clip
+
+Both references of a clip are given the same ```available_image_bounds```, so switching
+between them changes the resolution being read while the clip stays in the same place and
+at the same size. The clips are also colored by sequence, and the timeline opens on the
+proxy.
+
+The media is expected alongside the .otio file, with the EXR sequence in a
+```STEM2_4k_ctm_ACES_239``` sub-directory:
+```
+StEM2_MultipleMediaRefs.otio
+StEM2_239_proxy.mov
+ASC_StEM2_178_UHD_ST2084_1000nits_Rec2020_Stereo_ProRes4444XQ.wav
+STEM2_4k_ctm_ACES_239/
+    STEM2_4k_ctm_ACES_239.00086400.exr
+    ...
+```
+
+Create the proxy movie from the ProRes conform. It is deliberately small so that the
+difference between the two references is obvious; the timecode is needed so that the proxy
+lines up with the EXR sequence, which starts at one hour:
+```
+ffmpeg -i ASC_StEM2_239_4K_24_100nits_Rec709_Stereo_ProRes422HQ.mov \
+    -vf "scale=512:-2:flags=area" \
+    -c:v libx264 -preset medium -crf 30 -pix_fmt yuv420p \
+    -c:a aac -b:a 128k \
+    -timecode 01:00:00:00 \
+    StEM2_239_proxy.mov
+```
+
+This timeline needs the .wav to start at one hour as well, unlike the one used by
+```STEM2_4k_ctm_ACES_239.otio``` above. Extract it with a broadcast wave time reference,
+which is a sample count rather than a frame count: one hour at 48kHz is 172800000. Without
+it the audio reads outside the file and is silent:
+```
+ffmpeg -i ASC_StEM2_178_UHD_ST2084_1000nits_Rec2020_Stereo_ProRes4444XQ.mov \
+    -write_bext 1 -metadata time_reference=172800000 \
+    ASC_StEM2_178_UHD_ST2084_1000nits_Rec2020_Stereo_ProRes4444XQ.wav
+```
+
+The timeline and its media can then be bundled into a single .otioz file (around 1 TB),
+which OpenTimelineIO writes with the media stored uncompressed so that it can be read in
+place:
+```
+otiotool --input StEM2_MultipleMediaRefs.otio --output StEM2_MultipleMediaRefs.otioz
+```
+
 
 Sol Levante (2020)
 ==================
